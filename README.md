@@ -8,8 +8,9 @@
 ## How to use Reader 
 ## Try with resource 
 ## Writing Data to Files
-## Reading Data to Files 
-## Writing Objects to files [serialization ]
+## Reading Data from Files 
+## Writing Objects to files [ serialization ]
+## Reading Objects from files [ Deserialization ]
 ## How to list files in directory and subDirectories 
 ## --------------------------
 ### In chating application :

@@ -1,0 +1,24 @@
+This is the first line of code
+This is the second Line of code
+ This is the third Line of Code 
+You are Great Thanks 99
+This line is Written using Print Writer class via methods called println() this methods overload many 
+ Times to accept different kinds of data
+trueo2323.2PrinterWriterClass$Person@6f496d9fPrinterWriterClass$Person@723279cfPrinterWriterClass$Person@10f87f48PrinterWriterClass$Person@b4c966ao99
+This line is Written using Print Writer class via methods called println() this methods overload many 
+ Times to accept different kinds of data
+trueo2323.2PrinterWriterClass$Person@6f496d9fPrinterWriterClass$Person@723279cfPrinterWriterClass$Person@10f87f48PrinterWriterClass$Person@b4c966ao99
+This line is Written using Print Writer class via methods called println() this methods overload many 
+ Times to accept different kinds of data
+trueo2323.2mohamed Amer Name cairo ,EgyptPottterAmerPrinterWriterClass$Person@6f496d9fo99
+This line is Written using Print Writer class via methods called println() this methods overload many 
+ Times to accept different kinds of data
+trueo2323.2mohamed Amer Name cairo ,EgyptPottterAmerPrinterWriterClass$Person@6f496d9fo
+
+true9923882399
+This line is Written using Print Writer class via methods called println() this methods overload many 
+ Times to accept different kinds of data
+trueo2323.2mohamed Amer Name cairo ,EgyptPottterAmerPrinterWriterClass$Person@6f496d9fo
+
+true99238823
+Mohamed Alaa want to write this content to the coming file uaaemr 
